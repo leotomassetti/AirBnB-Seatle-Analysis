@@ -3,18 +3,12 @@ AirBnB Project from Udacity Data Science Nanodegree - Seattle Data Investigation
 
 ## Project Overview
 
-I chose Airbnb data in Seattle, and have the following three questions:
+I chose Seattle Airbnb data, and have the following questions:
 
-What are the most requested neighborhoods in Seattle?
-
-What are the busiest times of the year to visit Seattle? By how much do prices spike ?
-
-What is the seasonal pattern of Airbnb in Seattle?
-
-What kinds of Airbnb homes are popular?
-
-What are the words the hosts and the guests would like to use to describe their houses?
-
+•	What is the seasonal pattern of Airbnb in Seattle?
+•	What are the most requested neighborhoods in Seattle? 
+•	What kinds of residences are popular?
+•	What are the concepts hosts and guests are using to describe their residence and experiences?
 
 ## File Descriptions
 Data: 
@@ -26,8 +20,8 @@ Code:
 - Jupyter notebook.
 
 ## Results
-The results of the analysis are summarised in a blog post here:
+The results of the analysis are summarised in a blog post [here]()
 
 ## Acknowledgements
 - [Udacity](https://www.udacity.com/) for advice and review.
-- [Kaggle](https://www.kaggle.com/airbnb/seattle)
+- [Kaggle](https://www.kaggle.com/airbnb/seattle) for providing the database.
